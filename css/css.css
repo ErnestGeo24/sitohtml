@@ -1,0 +1,17 @@
+.t1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 20px;
+}
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 800px;
+}
+.div{
+    margin: auto ;
+    background-color: black;
+    height: 30%;
+    width: fit-content;
+}
